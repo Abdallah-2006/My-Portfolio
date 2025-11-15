@@ -16,7 +16,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-logo">
-            <span className="logo-text">Portfolio</span>
+            <span className="logo-text">Abdalla</span>
           </div>
           
           <div className="footer-social">
