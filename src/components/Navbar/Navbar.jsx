@@ -43,7 +43,7 @@ const Navbar = () => {
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="navbar-container">
         <Link to="hero" className="navbar-logo" spy={true} smooth={true} duration={500}>
-          <span className="logo-text">Portfolio</span>
+          <span className="logo-text">Abdalla</span>
         </Link>
         
         <div className="menu-icon" onClick={toggleMenu}>
