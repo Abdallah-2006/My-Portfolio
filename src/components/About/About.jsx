@@ -1,7 +1,7 @@
 import { useInView } from 'react-intersection-observer';
 import { motion } from 'framer-motion';
 import { FaUser, FaCode, FaGraduationCap, FaBriefcase } from 'react-icons/fa';
-import img from '../../../assests/my-img.jpeg' 
+import img from '../../../assests/my-img2.jpeg' 
 import './About.css';
 
 const About = () => {
